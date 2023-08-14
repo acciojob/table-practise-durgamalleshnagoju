@@ -4,4 +4,5 @@ table, th, td{
 }
 table{
 	background:yellow;
+	margin:auto;
 }
